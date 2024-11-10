@@ -121,7 +121,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-family: Tahoma;
-  margin: 17px calc(50% - 0) 0 calc(((100% - 1320px) / 2)  + 43px);
+  margin: 17px calc(((100% - 1320px) / 2)  + 593px) 0 calc(((100% - 1320px) / 2)  + 43px);
 }
 
 .u-section-1 .u-btn-1 {
